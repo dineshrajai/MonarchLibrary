@@ -1,0 +1,353 @@
+﻿Imports DevComponents.DotNetBar
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class _customMasterForm
+    Inherits DevExpress.XtraEditors.XtraForm
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(_customMasterForm))
+        Me.pnlTitle = New DevExpress.XtraEditors.PanelControl
+        Me.LblTitle = New DevExpress.XtraEditors.LabelControl
+        Me.PanelControl2 = New DevExpress.XtraEditors.PanelControl
+        Me.PnlGridFill = New DevExpress.XtraEditors.PanelControl
+        Me.grdList = New DevExpress.XtraGrid.GridControl
+        Me.GridView1 = New DevExpress.XtraGrid.Views.Grid.GridView
+        Me.btnSave = New DevExpress.XtraEditors.SimpleButton
+        Me.btncancel = New DevExpress.XtraEditors.SimpleButton
+        Me.btnDelete = New DevExpress.XtraEditors.SimpleButton
+        Me.btnEdit = New DevExpress.XtraEditors.SimpleButton
+        Me.btnAdd = New DevExpress.XtraEditors.SimpleButton
+        Me.btnExit = New DevExpress.XtraEditors.SimpleButton
+        Me.PanelControl1 = New DevExpress.XtraEditors.PanelControl
+        Me.lblmsg3 = New DevExpress.XtraEditors.LabelControl
+        Me.lblmsg2 = New DevExpress.XtraEditors.LabelControl
+        Me.lblmsg1 = New DevExpress.XtraEditors.LabelControl
+        Me.SplitContainerControl1 = New DevExpress.XtraEditors.SplitContainerControl
+        CType(Me.pnlTitle, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.pnlTitle.SuspendLayout()
+        CType(Me.PanelControl2, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PnlGridFill, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.PnlGridFill.SuspendLayout()
+        CType(Me.grdList, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.GridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PanelControl1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.PanelControl1.SuspendLayout()
+        CType(Me.SplitContainerControl1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SplitContainerControl1.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'pnlTitle
+        '
+        Me.pnlTitle.Controls.Add(Me.LblTitle)
+        Me.pnlTitle.Dock = System.Windows.Forms.DockStyle.Top
+        Me.pnlTitle.Location = New System.Drawing.Point(0, 0)
+        Me.pnlTitle.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.pnlTitle.Name = "pnlTitle"
+        Me.pnlTitle.Size = New System.Drawing.Size(579, 34)
+        Me.pnlTitle.TabIndex = 2
+        '
+        'LblTitle
+        '
+        Me.LblTitle.Appearance.Font = New System.Drawing.Font("Times New Roman", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LblTitle.Appearance.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.LblTitle.Appearance.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.Vertical
+        Me.LblTitle.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near
+        Me.LblTitle.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center
+        Me.LblTitle.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.LblTitle.Location = New System.Drawing.Point(2, 2)
+        Me.LblTitle.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.LblTitle.Name = "LblTitle"
+        Me.LblTitle.Size = New System.Drawing.Size(130, 24)
+        Me.LblTitle.TabIndex = 0
+        Me.LblTitle.Text = "LabelControl1"
+        '
+        'PanelControl2
+        '
+        Me.PanelControl2.Appearance.BackColor = System.Drawing.Color.White
+        Me.PanelControl2.Appearance.Options.UseBackColor = True
+        Me.PanelControl2.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.PanelControl2.FireScrollEventOnMouseWheel = True
+        Me.PanelControl2.Location = New System.Drawing.Point(0, 0)
+        Me.PanelControl2.Name = "PanelControl2"
+        Me.PanelControl2.Size = New System.Drawing.Size(579, 205)
+        Me.PanelControl2.TabIndex = 1
+        '
+        'PnlGridFill
+        '
+        Me.PnlGridFill.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder
+        Me.PnlGridFill.Controls.Add(Me.grdList)
+        Me.PnlGridFill.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.PnlGridFill.Location = New System.Drawing.Point(0, 0)
+        Me.PnlGridFill.Name = "PnlGridFill"
+        Me.PnlGridFill.Size = New System.Drawing.Size(579, 177)
+        Me.PnlGridFill.TabIndex = 0
+        '
+        'grdList
+        '
+        Me.grdList.AllowRestoreSelectionAndFocusedRow = DevExpress.Utils.DefaultBoolean.[True]
+        Me.grdList.CausesValidation = False
+        Me.grdList.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.grdList.Font = New System.Drawing.Font("Verdana", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.grdList.Location = New System.Drawing.Point(0, 0)
+        Me.grdList.MainView = Me.GridView1
+        Me.grdList.Name = "grdList"
+        Me.grdList.Size = New System.Drawing.Size(579, 177)
+        Me.grdList.TabIndex = 0
+        Me.grdList.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.GridView1})
+        '
+        'GridView1
+        '
+        Me.GridView1.Appearance.HeaderPanel.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.GridView1.Appearance.HeaderPanel.Options.UseFont = True
+        Me.GridView1.Appearance.HeaderPanel.Options.UseTextOptions = True
+        Me.GridView1.Appearance.HeaderPanel.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
+        Me.GridView1.Appearance.Row.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.GridView1.Appearance.Row.Options.UseFont = True
+        Me.GridView1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple
+        Me.GridView1.ColumnPanelRowHeight = 40
+        Me.GridView1.GridControl = Me.grdList
+        Me.GridView1.Name = "GridView1"
+        Me.GridView1.OptionsBehavior.AllowDeleteRows = DevExpress.Utils.DefaultBoolean.[False]
+        Me.GridView1.OptionsBehavior.AutoExpandAllGroups = True
+        Me.GridView1.OptionsBehavior.CopyToClipboardWithColumnHeaders = False
+        Me.GridView1.OptionsBehavior.Editable = False
+        Me.GridView1.OptionsCustomization.AllowQuickHideColumns = False
+        Me.GridView1.OptionsFilter.DefaultFilterEditorView = DevExpress.XtraEditors.FilterEditorViewMode.TextAndVisual
+        Me.GridView1.OptionsFilter.ShowAllTableValuesInFilterPopup = True
+        Me.GridView1.OptionsFind.FindDelay = 150
+        Me.GridView1.OptionsView.AnimationType = DevExpress.XtraGrid.Views.Base.GridAnimationType.AnimateFocusedItem
+        Me.GridView1.OptionsView.ColumnAutoWidth = False
+        Me.GridView1.OptionsView.ShowAutoFilterRow = True
+        Me.GridView1.OptionsView.ShowDetailButtons = False
+        Me.GridView1.OptionsView.WaitAnimationOptions = DevExpress.XtraEditors.WaitAnimationOptions.Indicator
+        Me.GridView1.ScrollStyle = DevExpress.XtraGrid.Views.Grid.ScrollStyleFlags.LiveHorzScroll
+        '
+        'btnSave
+        '
+        Me.btnSave.Appearance.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnSave.Appearance.Options.UseFont = True
+        Me.btnSave.Dock = System.Windows.Forms.DockStyle.Top
+        Me.btnSave.Image = CType(resources.GetObject("btnSave.Image"), System.Drawing.Image)
+        Me.btnSave.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleLeft
+        Me.btnSave.Location = New System.Drawing.Point(2, 83)
+        Me.btnSave.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.btnSave.Name = "btnSave"
+        Me.btnSave.Size = New System.Drawing.Size(126, 27)
+        Me.btnSave.TabIndex = 3
+        Me.btnSave.TabStop = False
+        Me.btnSave.Text = "&Save [F5]"
+        '
+        'btncancel
+        '
+        Me.btncancel.Appearance.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btncancel.Appearance.Options.UseFont = True
+        Me.btncancel.Dock = System.Windows.Forms.DockStyle.Top
+        Me.btncancel.Image = CType(resources.GetObject("btncancel.Image"), System.Drawing.Image)
+        Me.btncancel.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleLeft
+        Me.btncancel.Location = New System.Drawing.Point(2, 110)
+        Me.btncancel.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.btncancel.Name = "btncancel"
+        Me.btncancel.Size = New System.Drawing.Size(126, 27)
+        Me.btncancel.TabIndex = 4
+        Me.btncancel.TabStop = False
+        Me.btncancel.Text = "&Undo [F8]"
+        Me.btncancel.Visible = False
+        '
+        'btnDelete
+        '
+        Me.btnDelete.Appearance.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnDelete.Appearance.Options.UseFont = True
+        Me.btnDelete.Dock = System.Windows.Forms.DockStyle.Top
+        Me.btnDelete.Image = CType(resources.GetObject("btnDelete.Image"), System.Drawing.Image)
+        Me.btnDelete.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleLeft
+        Me.btnDelete.Location = New System.Drawing.Point(2, 56)
+        Me.btnDelete.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.btnDelete.Name = "btnDelete"
+        Me.btnDelete.Size = New System.Drawing.Size(126, 27)
+        Me.btnDelete.TabIndex = 2
+        Me.btnDelete.TabStop = False
+        Me.btnDelete.Text = "&Delete [F9]"
+        '
+        'btnEdit
+        '
+        Me.btnEdit.Appearance.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnEdit.Appearance.Options.UseFont = True
+        Me.btnEdit.Dock = System.Windows.Forms.DockStyle.Top
+        Me.btnEdit.Image = CType(resources.GetObject("btnEdit.Image"), System.Drawing.Image)
+        Me.btnEdit.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleLeft
+        Me.btnEdit.Location = New System.Drawing.Point(2, 29)
+        Me.btnEdit.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.btnEdit.Name = "btnEdit"
+        Me.btnEdit.Size = New System.Drawing.Size(126, 27)
+        Me.btnEdit.TabIndex = 1
+        Me.btnEdit.TabStop = False
+        Me.btnEdit.Text = "&Edit [F4]"
+        '
+        'btnAdd
+        '
+        Me.btnAdd.Appearance.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnAdd.Appearance.Options.UseFont = True
+        Me.btnAdd.AutoWidthInLayoutControl = True
+        Me.btnAdd.Dock = System.Windows.Forms.DockStyle.Top
+        Me.btnAdd.Image = CType(resources.GetObject("btnAdd.Image"), System.Drawing.Image)
+        Me.btnAdd.ImeMode = System.Windows.Forms.ImeMode.[On]
+        Me.btnAdd.Location = New System.Drawing.Point(2, 2)
+        Me.btnAdd.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.btnAdd.Name = "btnAdd"
+        Me.btnAdd.Size = New System.Drawing.Size(126, 27)
+        Me.btnAdd.TabIndex = 0
+        Me.btnAdd.TabStop = False
+        Me.btnAdd.Text = "&Add [F2]"
+        '
+        'btnExit
+        '
+        Me.btnExit.Appearance.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnExit.Appearance.Options.UseFont = True
+        Me.btnExit.Dock = System.Windows.Forms.DockStyle.Top
+        Me.btnExit.Image = CType(resources.GetObject("btnExit.Image"), System.Drawing.Image)
+        Me.btnExit.ImageLocation = DevExpress.XtraEditors.ImageLocation.MiddleLeft
+        Me.btnExit.Location = New System.Drawing.Point(2, 137)
+        Me.btnExit.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.btnExit.Name = "btnExit"
+        Me.btnExit.Size = New System.Drawing.Size(126, 27)
+        Me.btnExit.TabIndex = 5
+        Me.btnExit.TabStop = False
+        Me.btnExit.Text = "E&xit [F10]"
+        '
+        'PanelControl1
+        '
+        Me.PanelControl1.Controls.Add(Me.lblmsg3)
+        Me.PanelControl1.Controls.Add(Me.lblmsg2)
+        Me.PanelControl1.Controls.Add(Me.lblmsg1)
+        Me.PanelControl1.Controls.Add(Me.btnExit)
+        Me.PanelControl1.Controls.Add(Me.btncancel)
+        Me.PanelControl1.Controls.Add(Me.btnSave)
+        Me.PanelControl1.Controls.Add(Me.btnDelete)
+        Me.PanelControl1.Controls.Add(Me.btnEdit)
+        Me.PanelControl1.Controls.Add(Me.btnAdd)
+        Me.PanelControl1.Dock = System.Windows.Forms.DockStyle.Right
+        Me.PanelControl1.Location = New System.Drawing.Point(579, 0)
+        Me.PanelControl1.Name = "PanelControl1"
+        Me.PanelControl1.Size = New System.Drawing.Size(130, 421)
+        Me.PanelControl1.TabIndex = 1
+        '
+        'lblmsg3
+        '
+        Me.lblmsg3.Appearance.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblmsg3.Appearance.ForeColor = System.Drawing.Color.Black
+        Me.lblmsg3.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.lblmsg3.Location = New System.Drawing.Point(2, 362)
+        Me.lblmsg3.Name = "lblmsg3"
+        Me.lblmsg3.Size = New System.Drawing.Size(68, 19)
+        Me.lblmsg3.TabIndex = 8
+        Me.lblmsg3.Text = "Esc = Exit"
+        '
+        'lblmsg2
+        '
+        Me.lblmsg2.Appearance.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblmsg2.Appearance.ForeColor = System.Drawing.Color.Black
+        Me.lblmsg2.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.lblmsg2.Location = New System.Drawing.Point(2, 381)
+        Me.lblmsg2.Name = "lblmsg2"
+        Me.lblmsg2.Size = New System.Drawing.Size(81, 19)
+        Me.lblmsg2.TabIndex = 7
+        Me.lblmsg2.Text = "Enter = Edit"
+        '
+        'lblmsg1
+        '
+        Me.lblmsg1.Appearance.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblmsg1.Appearance.ForeColor = System.Drawing.Color.Black
+        Me.lblmsg1.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.lblmsg1.Location = New System.Drawing.Point(2, 400)
+        Me.lblmsg1.Name = "lblmsg1"
+        Me.lblmsg1.Size = New System.Drawing.Size(98, 19)
+        Me.lblmsg1.TabIndex = 6
+        Me.lblmsg1.Text = "Ctrl + F = Find"
+        '
+        'SplitContainerControl1
+        '
+        Me.SplitContainerControl1.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.SplitContainerControl1.Horizontal = False
+        Me.SplitContainerControl1.Location = New System.Drawing.Point(0, 34)
+        Me.SplitContainerControl1.Name = "SplitContainerControl1"
+        Me.SplitContainerControl1.Panel1.Controls.Add(Me.PanelControl2)
+        Me.SplitContainerControl1.Panel1.Text = "Panel1"
+        Me.SplitContainerControl1.Panel2.Controls.Add(Me.PnlGridFill)
+        Me.SplitContainerControl1.Panel2.Text = "Panel2"
+        Me.SplitContainerControl1.Size = New System.Drawing.Size(579, 387)
+        Me.SplitContainerControl1.SplitterPosition = 205
+        Me.SplitContainerControl1.TabIndex = 0
+        Me.SplitContainerControl1.Text = "SplitContainerControl1"
+        '
+        '_customMasterForm
+        '
+        Me.Appearance.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Appearance.Options.UseFont = True
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 14.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(709, 421)
+        Me.Controls.Add(Me.SplitContainerControl1)
+        Me.Controls.Add(Me.pnlTitle)
+        Me.Controls.Add(Me.PanelControl1)
+        Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.KeyPreview = True
+        Me.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.Name = "_customMasterForm"
+        Me.ShowInTaskbar = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Tag = "_CM"
+        Me.Text = "_customMasterForm"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
+        CType(Me.pnlTitle, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.pnlTitle.ResumeLayout(False)
+        Me.pnlTitle.PerformLayout()
+        CType(Me.PanelControl2, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PnlGridFill, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.PnlGridFill.ResumeLayout(False)
+        CType(Me.grdList, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.GridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PanelControl1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.PanelControl1.ResumeLayout(False)
+        Me.PanelControl1.PerformLayout()
+        CType(Me.SplitContainerControl1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.SplitContainerControl1.ResumeLayout(False)
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents pnlTitle As DevExpress.XtraEditors.PanelControl
+    Public WithEvents LblTitle As DevExpress.XtraEditors.LabelControl
+    Public WithEvents btnAdd As DevExpress.XtraEditors.SimpleButton
+    Public WithEvents btnDelete As DevExpress.XtraEditors.SimpleButton
+    Public WithEvents btnExit As DevExpress.XtraEditors.SimpleButton
+    Public WithEvents btnEdit As DevExpress.XtraEditors.SimpleButton
+    Public WithEvents btnSave As DevExpress.XtraEditors.SimpleButton
+    Public WithEvents btncancel As DevExpress.XtraEditors.SimpleButton
+    Public WithEvents grdList As DevExpress.XtraGrid.GridControl
+    Public WithEvents GridView1 As DevExpress.XtraGrid.Views.Grid.GridView
+    Public WithEvents PnlGridFill As DevExpress.XtraEditors.PanelControl
+    Public WithEvents PanelControl1 As DevExpress.XtraEditors.PanelControl
+    Public WithEvents PanelControl2 As DevExpress.XtraEditors.PanelControl
+    Public WithEvents SplitContainerControl1 As DevExpress.XtraEditors.SplitContainerControl
+    Friend WithEvents lblmsg3 As DevExpress.XtraEditors.LabelControl
+    Friend WithEvents lblmsg2 As DevExpress.XtraEditors.LabelControl
+    Friend WithEvents lblmsg1 As DevExpress.XtraEditors.LabelControl
+End Class

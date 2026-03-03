@@ -1,0 +1,240 @@
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+C:\Documents and Settings\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+D:\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\Project\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\Project\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\Project\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\Project\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\Project\AweSome\AweSome\Compile\Awasome\MonarchLibrary.dll
+D:\Project\AweSome\AweSome\Compile\Awasome\MonarchLibrary.pdb
+D:\Project\AweSome\AweSome\Compile\Awasome\MonarchLibrary.xml
+D:\Project\AweSome\AweSome\Compile\Awesome\MonarchLibrary.dll
+D:\Project\AweSome\AweSome\Compile\Awesome\MonarchLibrary.pdb
+D:\Project\AweSome\AweSome\Compile\Awesome\MonarchLibrary.xml
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+Z:\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+Z:\AweSome\AweSome\Compile\Awesome\MonarchLibrary.xml
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\Project\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+Z:\AweSome\AweSome\Compile\Awesome\MonarchLibrary.dll
+Z:\AweSome\AweSome\Compile\Awesome\MonarchLibrary.pdb
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.xml
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+D:\Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.DLL
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.xml
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+C:\Users\Administrator\Desktop\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.xml
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.DLL
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.FormCalc.resources
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+F:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.exe
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.DLL
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.xml
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.FormCalc.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.exe.licenses
+D:\sdas\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.exe
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.DLL
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\FastReport.xml
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.FormCalc.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+E:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbprojResolveAssemblyReference.cache
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.FormCalc.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\VB Project\mywork\AweSome\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbprojResolveAssemblyReference.cache
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.FormCalc.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\SHAILESH\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.dll
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.pdb
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\bin\Debug\MonarchLibrary.xml
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbprojResolveAssemblyReference.cache
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.FormCalc.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomDetail.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.Resources.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridExportPreview.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomGridPlain.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customMasterForm.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._CustomPlain.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReport.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customReportPreview.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary._customSinglePlain.resources
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.vbproj.GenerateResource.Cache
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll.licenses
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.dll
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.xml
+D:\GIT PROJECTS\MonarchLibrary\MonarchLibrary\obj\Debug\MonarchLibrary.pdb
