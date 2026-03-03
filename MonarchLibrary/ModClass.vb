@@ -16,6 +16,7 @@ Public Class ModClass
     Public Const LOCALE_SSHORTDATE As Integer = &H1FS
     Public Declare Function GetSystemDefaultLCID Lib "kernel32" () As Integer
     Public Declare Function SetLocaleInfo Lib "kernel32" Alias "SetLocaleInfoA" (ByVal Locale As Integer, ByVal LCType As Integer, ByVal lpLCData As String) As Integer
+    'TEST
     Public Shared Sub SetVisualItaxINIValue(ByVal section As String, ByVal element As String, ByVal value As String)
         Dim ini As New IniFile
         Dim sfilename As String
